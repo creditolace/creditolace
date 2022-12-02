@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MRAsposito
-- 👀 I’m interested in = building a DeFi dApp as a sidechain on Cardano. Have created a Preliminary TOKENOMICS Architecture Overview for the project.
+- 👀 I’m interested in = building a DeFi dApp https://www.creditolace.com/ as a sidechain on Cardano. Have created a Preliminary TOKENOMICS Architecture Overview for the project.
 - 🌱 I’m currently learning = struggling with WSL Windows Subsystem for Linux on PC; Running Daedalus cardano-node/-cli/-wallet 1.35.3  
 - Minted Ada Handle asset addresses for this project to link to necessary infrastructure. 
 - 💞️ I’m looking to = Would love to connect with a community like LACE to work with and build this together.
